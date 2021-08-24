@@ -1,2 +1,2 @@
 # DataScienceCapstoneProject
-Coursera Module 1- Applied Data Science Capstone Project
+Coursera Module 10 - Applied Data Science Capstone Project
